@@ -1,0 +1,1 @@
+# AnimalSkinDiseasePrediction_CNN
